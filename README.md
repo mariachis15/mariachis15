@@ -1,7 +1,6 @@
 ![Screenshot 2023-05-23 205410](https://github.com/mariachis15/mariachis15/assets/115288409/c6964fb3-e23a-42ac-8dbe-0689ae1780c4)
 
 <h1 align="center">Hi 👋, I'm Maria Chis</h1>
-<h3 align="center">I'm a student interested in Java!</h3>
 <img align ="right" alt = "coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariachis15&label=Profile%20views&color=0e75b6&style=flat" alt="mariachis15" /> </p>
 
